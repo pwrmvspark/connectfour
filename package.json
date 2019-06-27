@@ -1,0 +1,32 @@
+{
+  "name": "connectfour",
+  "version": "1.0.0",
+  "description": "Challenge: Connect Four Basic Requirements Build a single-page app implementation of the game Connect Four. You should:",
+  "main": "index.js",
+  "scripts": {
+    "react-dev": "webpack -d --watch & live-server ./client/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwrmvspark/connectfour.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwrmvspark/connectfour/issues"
+  },
+  "homepage": "https://github.com/pwrmvspark/connectfour#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.5"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
