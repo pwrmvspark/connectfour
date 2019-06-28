@@ -4,7 +4,7 @@ Challenge: Connect Four
 Basic Requirements
 Build a single-page app implementation of the game Connect Four. You should:
 
-Use ReactJS for all views and bundle with Webpack
+Use ReactJS for all views and bundle with Webpackc
 Use Express to serve your app and handle API requests
 Implement all the game logic in the client code
 Build your Express app inside server.js and your client app inside the client folder. Separate your React components into their own files and configure webpack-dev to load those components into your client. For help configuring Webpack, you may look at the hints file.
